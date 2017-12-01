@@ -1,0 +1,198 @@
+﻿INFO_: Script started with parameters: 
+INFO_ReadThePath: the path in testFinArbo.txt is valid! Success!
+INFO_ReadThroughThePath: finished
+INFO_Main: indent : '' soit 0 indentations.
+INFO_Main: indent final : 3 pour un path de 3 de longueur.
+ Etudiants
+ Enseignants
+    Beaulieu
+        AUTRES
+            A-Divers etablissements
+                __ACHAICHIA Pierre
+                __ALEXANDRE Cédric
+                __BAYAT Sahar
+                __BELLEC Julien
+                __BELLEC Julien
+                __BOSSIS BRUNO
+                __BOUTET Antoine
+                __BRADEL Benoït
+                __BURGUN Anita
+                __CADAVID_GOMEZ Juan-José
+                __CARRÉ François
+                __CIVRAY Eric
+                __CONAN Romain
+                __COVILLE Mathieu
+                __DENIAU Eric
+                __DESCHAMPS Jean-Philippe
+                __DUBOIS Aurélie
+                __EUGENE Rémi
+                __FESSANT Françoise
+                __FINK Mathias
+                __FLEUREAU Julien
+                __FLEURY Sylvain
+                __FOSSE Camille
+                __FRANGNE Pierre-Henry
+                __GARCELON Nicolas
+                __GARNIER Charlotte
+                __GAUTIER Josselin
+                __GEFFROY Pascal
+                __GIBAUD Bernard
+                __GOUVERT Xavier
+                __GRUSON Adrien
+                __GUILBAUD Bertrand
+                __GUILBAUD Lydie (Capgemini)
+                __HAMERY Roxane
+                __HANGOUET Samuel
+                __HAUTBOIS J.-M.
+                __HEEN Olivier
+                __HERNANDEZ Alfredo
+                __HIET Guillaume
+                __HOUEE Patrick
+                __ICONICS
+                __JABET Sandra
+                __JERONIMO Christian
+                __JEZEQUEL Loig
+                __JOYEUX Véronique
+                __Joël LAURENT
+                __KERVIO Gaëlle
+                __KOPEC Marie
+                __LABIT Claude
+                __LAGENTE Elisabeth
+                __LANDRY Caroline
+                __LANGEVIN F.
+                __LARMOR Luc
+                __LE CLEUZIAT Marlène
+                __LECHEVALIER Nawelle
+                __LEPEUPLE Philippe
+                __LOPES COLINE
+                __LOUAZEL Michel
+                __LOUIS Fabien
+                __LUCAS Antoine
+                __MAHE Erwan
+                __MARIN Philippe
+                __MENTRE David
+                __MURIE Fred
+                __MUSSET F.
+                __PALARD XAVIER
+                __PICART Marc
+                __PUENTES John
+                __RETTEL Gilles
+                __RIOU Christine
+                __RIOU du COSQUER Eric
+                __ROUILLE Emmanuelle
+                __SALHI Emna
+                __SIOHAN Pierre
+                __TAMOUDI Abdelmoula
+                __TEULIÈRE Céline
+                __TIREL B.
+                __TRONCHOT Yves
+                __VIVIANI JL
+                __WEHBE Houssein
+            __COCAULT Maxime
+            IGR Sc.ECO DROIT
+                __ABALAIN Philippe
+                __ACKERMANN Serge
+                __ALLAIN Elodie
+                __BABIN LUDOVIC
+                __BELLION Amélie
+                __BESNARD Nicole
+                __BIRONNEAU Laurent
+                __BONEIN Aurélie
+                __BOUTONNET Mathilde
+                __BOUYAUX Pascal
+                __CADET Thomas
+                __CADORET Isabelle
+                __CHARPENTIER Arthur
+                __CHEFDOTEL Frédérique
+                __COIFFARD Mathias
+                __COLOMBIER Nathalie
+                __DARMON Eric
+                __DELFOSSE Christine
+                __DENANT-BOEMONT Laurent
+                __DHEILLY Clément
+                __DROUARD Joeffrey
+                __DUCROCQ Charles
+                __DURAND Jean-Jacques
+                __EL GANAOUI Omar
+                __FREDOUET Charles-Henri
+                __FROMONT Emmanuelle
+                __GARCIA Chantal
+                __GAUDIN Philippe
+                __GAZZAH Faten
+                __GRAVOT Pierre
+                __GUEGUEN CHANTAL
+                __HERRIAU Christophe
+                __HERVE-FOURNEREAU Nathalie
+                __HOVELAQUE Vincent
+                __HUBERT MARIE-HELENE
+                __INSERGUET Véronique
+                __JEBLI Sinda
+                __JONCOUR Marina
+                __KADAR ABDI IBRAHIM KADAR
+                __L'HARIDON Olivier
+                __LACOSTE Sophie
+                __LAJANTE Mathieu
+                __LARRIBEAU Sophie
+                __LE HEN Laurent
+                __LE PONNER Jordanne
+                __LE ROY Bruno
+                __LE RUDULIER Karine
+                __LE TEXIER Thomas
+                __LECUMBERRY Julien
+                __LEONARD Franck
+                __LICHERON Julien
+                __LOUHICHI Wael
+                __MAHO Lionel
+                __MALIN Eric
+                __MANASSA Simon
+                __MARTIN Franck
+                __MASCLET David
+                __MERIOT Pascale
+                __MIGNOT Alexandre
+                __MOIZEAU Fabien
+                __MORAUX Franck
+                __MOUTOU Albert
+                __MÉRIAN Vincent
+                __ORGIAZZI Elsa
+                __OUHADI Saïd
+                __PADOVANO Fabio
+                __PAPUCHON Aurélien
+                __PENTECOTE Jean-Sébastien
+                __PETERLE Emmanuel
+                __PINA STRANGER Alvaro
+                __PINAULT Karl
+                __QUEFFELEC Guillaume
+                __RISSEL Aurélien
+                __RONDEAU Fabien
+                __RUILLER Caroline
+                __SABBADO DA ROSA Laura
+                __SAMSON Patrick
+                __SAUVEE Roselyne
+                __SHI Yunnan
+                __STEPHAN Gaëtan
+                __Sarlandie de La Robertie Catherine
+                __TARROUX Benoît
+                __TAWEEL  Dima
+                __THENET Gervais
+                __THOMAS Clément
+                __TROADEC Cédric
+                __TROIVILLE Julien
+                __TUROLLA Stéphane
+                __VYT Dany
+                __YOU Alain
+            INSA
+                __Christelle Bouguennec
+                __Guines
+                __Prince
+            IUT
+                __CHAGNEAU FRANCIS
+                __COLLARDEY SYLVAIN
+                __DROULERS OLIVIER
+                __El ABDI
+                __GIBET BERNARD
+                __HERMANN-LASSABE PASCALE
+                __LAHOUD Samer
+                __LOISEAU SERGE
+                __MAUVOISIN GERARD
+            UBO
+INFO_time=29  - from 20171101154420

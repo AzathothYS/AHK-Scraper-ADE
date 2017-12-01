@@ -1,0 +1,32 @@
+﻿INFO_: Script started with parameters: 
+INFO_ReadThePath: the path in testFinArbo.txt is valid! Success!
+INFO_ReadThroughThePath: finished
+INFO_Main: indent : '' soit 0 indentations.
+INFO_Main: indent final : 3 pour un path de 3 de longueur.
+                __Christelle Bouguennec
+                __Guines
+                __Prince
+            IUT
+                __CHAGNEAU FRANCIS
+                __COLLARDEY SYLVAIN
+                __DROULERS OLIVIER
+                __El ABDI
+                __GIBET BERNARD
+                __HERMANN-LASSABE PASCALE
+                __LAHOUD Samer
+                __LOISEAU SERGE
+                __MAUVOISIN GERARD
+            UBO
+                __BAIRD PAUL
+                __BOIVIN DANIEL
+                __BUCKDAHN RAINER
+                __CARDALIAGUET PIERRE
+                __HUISMAN JOHANNES
+                __NICOLAS JEAN-PHILIPPE
+                __QUINCAMPOIX MARC
+ERROR_TestADEcrash: ADE crashed! Deleting lines until last folder...
+INFO_: Script started with parameters: 
+ERROR_TestADEcrash: ADE crashed! Deleting lines until last folder...
+INFO_TestADEcrash: Script will be restarted with the following parameters: --path testFinArbo.txt --out arbo_out.txt --debug --startup --append
+INFO_: Script started with parameters: 
+ERROR_TestADEcrash: ADE crashed! Deleting lines until last folder...
